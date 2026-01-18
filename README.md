@@ -1,27 +1,34 @@
-Use exatamente este texto abaixo. Ele foi estruturado para gerar aquele impacto de "rigor técnico" e "análise sistêmica" que discutimos.
+# Modelo 01: Matrix de Subsistência Periférica
 
-Copie e cole a partir do título abaixo:
+## Descrição do Sistema
+Este modelo descreve os protocolos de contenção utilizados para manter territórios periféricos em estado de estagnação funcional, garantindo a extração de riqueza e a neutralização da soberania cognitiva.
 
-Codigo Mundo
-Análises estruturais do poder global, política, economia e sistemas internacionais
-Um laboratório de leitura do mundo contemporâneo.
+## 1. Camada de Interface: Entorpecimento Sensorial
+**Função:** Ocupação do espectro cognitivo para impedir o processamento de alta complexidade.
+* **Protocolo Acústico:** Elevação do ruído ambiente em espaços públicos (algazarra, frequências sonoras de baixa fidelidade).
+* **Protocolo Visual/Estético:** Estética do vício, erotismo e celebração da marginalidade como "identidade cultural".
+* **Efeito:** Redução da capacidade de introspecção e análise sistêmica.
 
-Código Mundo é um projeto de análise geopolítica e econômica orientado por lógica sistêmica.
+## 2. Camada de Firmware: Protocolos de Alinhamento Metafísico
+**Função:** Direcionamento da energia de revolta para vetores que não ameaçam o Centro.
+* **Messianismo Político:** Uso de narrativas milenaristas e perenialistas para converter a percepção política em guerra espiritual.
+* **Sincronização Geopolítica:** Indução de movimentos religiosos (exportados do Centro) que validam a hegemonia externa como mandato transcendente.
+* **Efeito:** A periferia defende os interesses do Centro acreditando estar defendendo valores morais.
 
-Aqui, eventos não são tratados como opiniões, disputas ideológicas ou narrativas morais, mas como efeitos de uma arquitetura global que organiza poder, desenvolvimento, estagnação e dependência.
+## 3. Camada de Controle Social: O Influenciador como Ponto Único de Verdade (SPoT)
+**Função:** Fragmentação da liderança intelectual real.
+* **Mecânica:** Promoção de agentes de emulação (influencers) que validam o comportamento de subdesenvolvimento.
+* **Efeito:** Substituição do pensamento crítico pela imitação de comportamento.
 
-O projeto observa o mundo como um sistema em operação:
+## 4. Camada de Extração: Fluxos Financeiros Invisíveis
+**Função:** Drenagem sistemática do excedente de energia (capital).
+* **Mecânica:** Endividamento via consumo de baixo valor agregado e sistemas de crédito camuflados.
+* **Efeito:** O capital flui para o Centro antes que possa ser reinvestido na soberania tecnológica local.
 
-Fluxos financeiros: A movimentação de capital como sistema de irrigação ou asfixia.
+## 5. Regulador de Sistema: Geopolítica de Contenção
+**Função:** Manutenção do equilíbrio Centro-Periferia.
+* **Ações:** Suporte a lideranças juvenis "ativistas" e manutenção de regimes estagnantes (Condescendência Estratégica).
+* **Braços Operacionais:** Uso de aliados regionais fortes para monitorar e calibrar a estabilidade da área.
 
-Retenção de conhecimento: O uso da propriedade intelectual como trava de desenvolvimento periférico.
-
-Estruturas educacionais e culturais: A formação de quadros técnicos alinhados ao centro.
-
-Limites à inovação: Barreiras estruturais que impedem a emergência de novos polos de poder.
-
-Reconfigurações políticas: Ajustes usados para manter equilíbrios funcionais entre centro e periferia.
-
-Enquanto muitos se limitam à opinião, o Código Mundo investiga os algoritmos que estruturam o poder e a história.
-
-Este conteúdo é voltado a quem observa, analisa e pensa com lógica estrutural — e compreende que entender o funcionamento do mundo exige método, rigor e leitura sistêmica.
+---
+> **Diagnóstico:** A Matrix de Subsistência não é uma conspiração, é um design de engenharia social para garantir que a periferia permaneça funcional apenas como fornecedora de dados, recursos e mercado consumidor.
