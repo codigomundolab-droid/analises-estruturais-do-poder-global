@@ -24,8 +24,9 @@ A Groenlândia não é analisada como território, mas como função sistêmica 
 
 ---
 
-## Pergunta Cognitiva
-Não lemos intenções. Lemos estruturas.
+Pergunta Cognitiva
+A partir de uma leitura estrutural do sistema:
 
-O que essa movimentação no Ártico revela sobre a fase atual do sistema-mundo?
+o que a movimentação no Ártico revela sobre a fase atual do sistema-mundo?
+
 
